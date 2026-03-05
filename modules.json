@@ -1,0 +1,35 @@
+[
+  {
+    "module_code": "plt8_3",
+    "module_label": "PLT.8.3 - Access Logging & Query Tracking",
+    "module_title": "Access Logging & Query Tracking",
+    "module_slug": "access_logging_and_query_tracking",
+    "app_code": "plt8",
+    "app_label": "PLT 8 - Data Lake Infrastructure",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_slug": "config"
+  },
+  {
+    "module_code": "plt8_2",
+    "module_label": "PLT.8.2 - Data Cataloging & Indexing",
+    "module_title": "Data Cataloging & Indexing",
+    "module_slug": "data_cataloging_and_indexing",
+    "app_code": "plt8",
+    "app_label": "PLT 8 - Data Lake Infrastructure",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt8_1",
+    "module_label": "PLT.8.1 - Data Ingestion",
+    "module_title": "Data Ingestion",
+    "module_slug": "data_ingestion",
+    "app_code": "plt8",
+    "app_label": "PLT 8 - Data Lake Infrastructure",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  }
+]
